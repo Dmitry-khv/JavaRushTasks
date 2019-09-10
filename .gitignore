@@ -1,0 +1,19 @@
+﻿.idea/*
+.war
+.jar
+.ear
+.class
+1.JavaSyntax
+3.JavaMultithreading/
+4.JavaCollections/
+5.OnlineInternship/
+8.Games/
+Instruction.png
+JavaRush - \320\272\321\203\321\200\321\201\321\213 Java \320\276\320\275\320\273\320\260\320\271\320\275
+JavaRushPlugin.properties
+JavaRushTasks.iml
+out.log
+out.log.1
+out/
+
+
